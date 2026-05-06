@@ -1,0 +1,4 @@
+HealthCard.cpp: In member function ‘void sdds::HealthCard::extractChar(std::istream&, char) const’:
+HealthCard.cpp:53:13: error: assignment of member ‘sdds::HealthCard::m_name’ in read-only object
+      m_name = nullptr;
+             ^
